@@ -48,7 +48,7 @@ Real-Time Audio Guidance to User
 ![Detection 2](screenshots/detection2.png)
 
 ## 🎥 Demo Video
-
+https://github.com/user-attachments/assets/45683190-1ba4-4063-a3b0-7498e9b1f1f6
 
 ## 💡 Impact
 
